@@ -1,0 +1,5 @@
+{
+  "name": "Culinary Command Center",
+  "description": "An all-in-one restaurant management application to handle point-of-sale, kitchen orders, inventory, menu, and reservations.",
+  "requestFramePermissions": []
+}
